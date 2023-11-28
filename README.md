@@ -3,9 +3,9 @@
 Group Members Names:
 - Devarshi Patel (G35175105)
 - Isha Paliwal (G49146952)
-- Sameer Sheikh
+- Sameer Sheikh (G49843839)
 - Pooja Mothukuri (G46773587)
-- Vivek Kommareddy
+- Vivek Kommareddy (G43709632)
 
 # Budgetwise Application - Screenshots
 
